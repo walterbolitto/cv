@@ -71,7 +71,7 @@ __Cursinho Comunitário A-Sol__
 
 Coordenador Pedagógico (2022- )
 
-Professor de Química (2020- )
+Professor de Química/Física (2020- )
 
 Gerenciamento do Ambiente Virtual de Aprendizagem (AVA) (2020-2021)
 
