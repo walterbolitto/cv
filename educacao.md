@@ -12,14 +12,14 @@ E-mail. <a href="walter.carvalho@ufabc.edu.br">walter.carvalho@ufabc.edu.br</a> 
 ## Experiência Profissional
 
 `2022-`
+__Colégio Vila X__
+
+Professor PEB II, ministrando aulas de Física (2023- ).
+
+`2022-`
 __Secretaria da Educação do Estado de São Paulo__
 
 Professor PEB II, ministrando aulas de Química, Física, Informática e Itinerários Formativos.
-
-`2022-`
-__Colégio Vila X__
-
-Professor PEB II, ministrando aulas de Química (2022-2023) e Física (2023- ).
 
 `2017 - 2021`
 __Assistente Administrativo, Proguaru | Progresso e Desenvolvimento de Guarulhos S. A.__
@@ -32,11 +32,15 @@ __Estagiário de Engenharia Química, Centro Paula Souza__
 Acompanhamento das aulas, auxílio aos alunos nos trabalhos de conclusão de curso, manutenção do laboratório de química (elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos).
 
 ## Educação
+`2024-`
+__Doutorado em Ciência da Computação, UFABC | Universidade Federal do ABC__
+
+Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC), do projeto Diversão Séria (UFABC) e do grupo de pesquisa de Mudanças Curriculares e Melhoria do Ensino Público (GEPUD/UNIFESP). Pesquisa na área de currículo e práticas pedagógicas de computação.
 
 `2021 - 2023`
 __Mestrado em Ciência da Computação | Universidade Federal do ABC__
 
-Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC). Projeto de pesquisa inserido em uma articulação entre jogos educacionais, tecnologias assistivas e teorias de currículo.
+Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC). Pesquisa na área de metodologias ativas, jogos na educação e acessibilidade.
 
 `2019 - 2020`
 __Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos__
@@ -109,4 +113,4 @@ Francês básico
 
 <!-- ### Footer
 
-Last updated: ago 2021 -->
+Last updated: nov 2025 -->
