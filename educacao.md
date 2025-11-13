@@ -35,7 +35,7 @@ Acompanhamento das aulas, auxílio aos alunos nos trabalhos de conclusão de cur
 `2024-`
 __Doutorado em Ciência da Computação, UFABC | Universidade Federal do ABC__
 
-Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC), do projeto Diversão Séria (UFABC) e do grupo de pesquisa de Mudanças Curriculares e Melhoria do Ensino Público (GEPUD/UNIFESP). Pesquisa na área de currículo e práticas pedagógicas de computação.
+Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do grupo de pesquisa de Mudanças Curriculares e Melhoria do Ensino Público (GEPUD/UNIFESP). Pesquisa na área de currículo e práticas pedagógicas de computação.
 
 `2021 - 2023`
 __Mestrado em Ciência da Computação | Universidade Federal do ABC__
@@ -99,17 +99,11 @@ Criação de games e narrativas interativas com o Twine. Curso de extensão dado
 `2019`
 __Jogos Educativos para Ciências Naturais no Ensino Médio__. Instituto Federal de São Paulo, IFSP. 
 
-`2019`
-__Desenho de Cursos: Introdução ao Modelo ADDIE__. Escola Nacional de Administração Pública, ENAP. 
-
-
 ## Idiomas
 
 Português nativo
 
 Inglês fluente
-
-Francês básico
 
 <!-- ### Footer
 
