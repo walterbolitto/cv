@@ -14,7 +14,7 @@ E-mail. <a href="walter.carvalho@ufabc.edu.br">walter.carvalho@ufabc.edu.br</a> 
 `2022-`
 __Colégio Vila X__
 
-Professor PEB II, ministrando aulas de Física (2023- ).
+Professor PEB II, ministrando aulas de Física.
 
 `2022-`
 __Secretaria da Educação do Estado de São Paulo__
